@@ -1,0 +1,46 @@
+col{
+    color:brown;
+}
+tr{
+    color: #0000ff;
+}
+     
+.aish-button{
+    background-color: blueviolet;
+    color: rgb(242, 232, 232);
+    height: 35px;
+    width: 60px;
+    border:solid;
+    border-color:rgb(255, 19, 180); 
+    border-radius :5px;
+    cursor:pointer;
+    transition:background-color 1s,
+    color 1s;
+    
+}
+.aish-button:hover{
+    opacity: 0.5;
+
+}
+
+.aish-button:active {
+    background-color: antiquewhite;
+    border-color: black;
+}
+
+.click-button{
+    background-color:rgb(249, 246, 246);
+    color:rgb(3, 3, 59);
+    height: 35px;
+    width: 60px;
+    border:solid;
+    border-color:rgb(22, 10, 73); 
+    border-width: 1px;
+    cursor:pointer;
+    border-radius: ;
+    
+        
+}
+.click-button:hover{
+    background-color: rgb(16, 16, 213);
+}
